@@ -1,5 +1,7 @@
 # Nao Garden
 
+![Logo](Doc/image/logo-small.png)
+
 Nao Garden was a Licence 3 project supervised by Jean-Charles MARTY and François Colin.
 We were a team of 5 students:
 
