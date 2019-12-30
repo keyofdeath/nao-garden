@@ -1,0 +1,14 @@
+{
+"name":"Info sur le jardin",
+"desc":"Le taux d'humiditer de t-on jardin et de {}%. La températeur extèrieur et de {} degré.",
+"xp":1,
+"pres":true,
+"wait_for":false,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"custom",
+"values_max":[],
+"values_min":[]
+}

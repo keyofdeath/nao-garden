@@ -1,0 +1,12 @@
+{
+"name":"recolter les fruit est légume",
+"desc":"Il est important de faire le tour de son jardin pour récolter les fruits et légumes qui ont poussé, et pour éviter de les perdres. ",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"tout va bien ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

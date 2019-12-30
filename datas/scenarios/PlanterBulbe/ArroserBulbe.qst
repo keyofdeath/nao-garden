@@ -1,0 +1,9 @@
+{
+"name":"Arroser Bulbe",
+"desc":"",
+"xp":0,
+"pres":false,
+"optional":false,
+"objectives":["PlanterCapteur","InfoJardin","ArroserBulbe","ValiderAroser"],
+"next_quests":["Fin"]
+}

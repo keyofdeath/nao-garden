@@ -1,0 +1,14 @@
+{
+"name":"q6",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Qu'est-ce que plante vivace ? Réponse 1. Une plante vivant plus d'un an. Réponse 2. Une plante vivant plus de deux ans. Réponse 3. Une plante bisanuelle.",
+"answer_yes":true,
+"type":"kw",
+"keywords":["1","2","3"],
+"kw2id":{"1":"un","2":"deux","3":"trois"},
+"values_max":[],
+"values_min":[]
+}

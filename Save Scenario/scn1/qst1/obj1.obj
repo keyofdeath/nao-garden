@@ -1,0 +1,12 @@
+{
+"name":"Objectif 1",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Êtes vous attentif ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

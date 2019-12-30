@@ -1,0 +1,8 @@
+{
+    "name":"Introduction du jeu nao jardinier",
+    "pres":false,
+    "desc":"Ce scénario vas vous faire une introduction du jeu nao jardinier",
+    "starting_quest":"introSpeech",
+    "next_scenario":["creationJardin"],
+    "xp":3
+}

@@ -1,0 +1,14 @@
+{
+"name":"Valider Planter Bulbe",
+"desc":"",
+"xp":0,
+"wait_for":false,
+"pres":false,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"A-tu planté ton bulbe ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

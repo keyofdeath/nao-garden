@@ -1,0 +1,12 @@
+{
+"name":"TestEndingObj",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

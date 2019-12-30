@@ -1,0 +1,12 @@
+{
+"name":"Stoper tout semis",
+"desc":"Environ 2 semaines avant ton départ en vacances, il faut cessez tout semis car cela demmande des soins que tu ne pourras leur donner. Il faut aussi cesser toutes plantations pour les mêmes raisons, ainsi que tout traitement fertilisateur. Il est inutile de chercher à obtenir des légumes plus gros alors qu'ils recevront moins de soins et peut-être moins d'eau qu'habituellement.",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"ça va ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

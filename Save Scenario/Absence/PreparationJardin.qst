@@ -1,0 +1,8 @@
+{
+"name":"Préparation Jardin",
+"desc":"",
+"xp":1,
+"optional":false,
+"objectives":["Binez","Desherber","Paillez","Recolte","StopSemis"],
+"next_quests":["FinAbsence"]
+}

@@ -1,0 +1,18 @@
+{
+    "nom":"",
+    "difficulte":"",
+    "hauteur_min" : "",
+    "hauteur_max" : "",
+    "type_sol":"",
+    "semis" : "",
+    "plantation" : "",
+    "arrosage" : "",
+    "entretien" : "",
+    "recolte" : "",
+    "humidite":"",
+    "ensoleillemnt" : "",
+    "faiblesse" : "",
+    "parasite" : "",
+    "maladie" : "",
+    "conseils" : ""
+}

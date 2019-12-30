@@ -1,0 +1,8 @@
+{
+"name":"Choix d'un outils (dynamique)",
+"desc":"",
+"xp":3,
+"optional":false,
+"objectives":["choix_outils_dyna"],
+"next_quests":[]
+}

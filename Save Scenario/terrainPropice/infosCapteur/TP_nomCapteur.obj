@@ -1,0 +1,13 @@
+{
+"name":"Nom Capteur",
+"desc":"",
+"xp":0,
+"pres":false,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Quel est le nom de ton capteur ?",
+"answer_yes":true,
+"type":"info",
+"values_max":[],
+"values_min":[]
+}

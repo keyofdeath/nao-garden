@@ -1,0 +1,40 @@
+{
+  "nom": "tomate",
+  "difficulte": "Facile",
+  "hauteur minimum": " 80",
+  "hauteur maximum": "140",
+  "type de sol": "Sol riche et léger",
+  "semis": "Vers la mi-mars sous abri",
+  "plantation": {
+    "date": "avril, mai, juin",
+    "creuser": "Il faut creuser un trou assez profond et large pour le plant, espacer chaque plant de 80 cm",
+    "engrais": "Mélangez du compost avec de la terre",
+    "planter": "mettre le plant dans le trou et planter un tuteur de 1 mètre 50.",
+    "recouvrir": "combler le trou avec le mélange",
+    "arroser": "arroser abondamment"
+  },
+  "arrosage": "En été, arrosez copieusement et régulièrement au pied des plantes sans mouiller le feuillage (plusieurs litres). ",
+  "recolte": "à partir de juillet, au fur et à mesure de leur mûrissement, quand les tomates sont bien colorées. Elles se détachent alors facilement. En fin de saison, s’il vous reste des tomates encore vertes sur les plants arrachés, étalez-les dans des cageots placés au soleil derrière une vitre. Elles continueront à mûrir.",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le froid et le vent",
+  "conseils": "Une bonne couche de paillage (paillis de lin, de chanvre…) est bénéfique afin de préserver la chaleur du sol. Pour de plus belles tomates apportez un engrais organique spécial tomates une à 2 fois par mois.",
+  "determinant": "la",
+  "pluriel": "tomates"
+}

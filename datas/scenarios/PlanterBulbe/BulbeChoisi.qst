@@ -1,0 +1,9 @@
+{
+"name":"Buble choisi",
+"desc":"",
+"xp":0,
+"pres":false,
+"optional":false,
+"objectives":["ChoixBulbe"],
+"next_quests":["PlanterBulbe"]
+}

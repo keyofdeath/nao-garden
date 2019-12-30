@@ -1,0 +1,41 @@
+{
+  "nom": "fraise",
+  "nom latin": "Fragaria Vesca",
+  "difficulte": "Facile",
+  "hauteur minimum": "15",
+  "hauteur maximum": "40",
+  "type de sol": "Sol riche et bien drainé",
+  "plantation": {
+    "date": "juin, juillet, aout, septembre, octobre",
+    "creuser": "Il faut creuser un petit trou, sur une butte de préférence",
+    "engrais": "Mélangez du terreau ou du compost avec la terre afin de garantir une alimentation en quantité suffisante",
+    "planter": "mettre les plants dans les trous",
+    "recouvrir": "combler le trou avec le mélange, et tasser en forme de cuvette",
+    "arroser": "arroser sans excès"
+  },
+  "arrosage": "Très gourmand en eau, le fraisier doit être arrosé au moins une fois par semaine. Ne pas laisser la terre sécher entre deux arrosages. Attention à ne pas trop arroser !",
+  "recolte": "Dès que les fruits sont bien rouges, entre mai et octobre, ils sont prêts à être dégustés !",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le froid, la sécheresse, mais aussi les chiens pouvant les déterrer !",
+  "parasite": "Les oiseaux, les arraignées rouges et les champignons moisissure sont mortels !",
+  "entretien": "Pailler le pied du fraisier afin de maintenir l’humidité du sol. Supprimer les stolons qui puisent inutilement les ressources.",
+  "determinant": "la",
+  "pluriel": "fraises"
+}

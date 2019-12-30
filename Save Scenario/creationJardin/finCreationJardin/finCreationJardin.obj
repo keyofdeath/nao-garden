@@ -1,0 +1,7 @@
+{
+  "desc":"C'est la fin du scénario, bien joué !",
+  "pres":true,
+  "on_fail_exit":false,
+
+  "type":"custom"
+}

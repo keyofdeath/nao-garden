@@ -1,0 +1,12 @@
+{
+"name":"résultat",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Félicitation tu a fini le qcm. Tu a {}.",
+"answer_yes":true,
+"type":"info",
+"values_max":[],
+"values_min":[]
+}

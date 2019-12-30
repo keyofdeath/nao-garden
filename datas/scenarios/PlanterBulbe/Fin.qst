@@ -1,0 +1,9 @@
+{
+"name":"Fin",
+"desc":"",
+"xp":0,
+"pres":false,
+"optional":false,
+"objectives":["Fin"],
+"next_quests":[]
+}

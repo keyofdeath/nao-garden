@@ -1,0 +1,9 @@
+{
+"name":"q3",
+"desc":"",
+"xp":0,
+"branch_id":"1",
+"optional":false,
+"objectives":[],
+"next_quests":["q5"]
+}

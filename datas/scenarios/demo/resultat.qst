@@ -1,0 +1,9 @@
+{
+"name":"Resultat",
+"desc":"",
+"xp":0,
+"pres":false,
+"optional":false,
+"objectives":["resultat"],
+"next_quests":[]
+}

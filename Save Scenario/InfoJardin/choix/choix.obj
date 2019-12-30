@@ -1,0 +1,14 @@
+{
+"name":"choix",
+"desc":"Choix entre qcm, Les donnée sur le jardin",
+"xp":0,
+"repeatable":true,
+"on_fail_exit":false,
+"question":"Veut tu me poser des question sur mon jardin ou faire le qcm ?",
+"answer_yes":true,
+"type":"kw",
+"keywords":["qcm","question"],
+"kw2id":{"qcm":"QCM","question":"questions"},
+"values_max":[],
+"values_min":[]
+}

@@ -1,0 +1,8 @@
+{
+"name":"Récupérer les Infos Terrain",
+"desc":"",
+"xp":0,
+"optional":false,
+"objectives":["nomCapteur","recupInfoPot"],
+"next_quests":[]
+}

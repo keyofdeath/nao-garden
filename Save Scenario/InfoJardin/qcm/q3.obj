@@ -1,0 +1,14 @@
+{
+"name":"q3",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Pour prévenir la venue de pucerons sur les plantes, quel est le meilleur remède de grand mère ? Réponse 1. Pulvériser du purin d'orties sur les feuilles. Réponse 2. Déposer des cendres au pied de la plante. Réponse 3. Déposer des copeaux de bois.",
+"answer_yes":true,
+"type":"kw",
+"keywords":["1","2","3"],
+"kw2id":{"1":"un","2":"deux","3":"trois"},
+"values_max":[],
+"values_min":[]
+}

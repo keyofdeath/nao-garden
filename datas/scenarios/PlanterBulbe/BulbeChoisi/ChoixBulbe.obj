@@ -1,0 +1,16 @@
+{
+"name":"choix bulbe",
+"desc":"",
+"xp":0,
+"pres":false,
+"wait_for":false,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Dis moi, quel est le bulbe que tu as choisis ?",
+"answer_yes":true,
+"type":"kw",
+"keywords":["1","2","3"],
+"kw2id":{"un":"1","deux":"2","trois":"3"},
+"values_max":[],
+"values_min":[]
+}

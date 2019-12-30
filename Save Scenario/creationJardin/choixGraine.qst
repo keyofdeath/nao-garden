@@ -1,0 +1,10 @@
+{
+  "name":"Choix de la graine",
+  "desc":"Tu vas choisir les graines que tu vas planter",
+  "pres":false,
+  "optional":false,
+  "xp":1,
+  "next_quests":[],
+
+  "objectives":["choixGraine"]
+}

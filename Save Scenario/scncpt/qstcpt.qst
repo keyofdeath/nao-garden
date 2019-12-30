@@ -1,0 +1,8 @@
+{
+"name":"qstcpt",
+"desc":"",
+"xp":0,
+"optional":false,
+"objectives":["objcpt"],
+"next_quests":[]
+}

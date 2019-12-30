@@ -1,0 +1,10 @@
+{
+  "desc":"Pour cette plante, tu dois {}",
+  "pres":false,
+  "on_fail_exit":false,
+  "question":"As tu arroser ?",
+  "type":"yn",
+  "answer_yes":true,
+
+  "xp":1
+}

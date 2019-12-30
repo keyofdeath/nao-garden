@@ -1,0 +1,41 @@
+{
+  "nom": "patate",
+  "difficulte": "Facile",
+  "hauteur maximum": "50",
+  "type de sol": "Sol riche, léger et un peu humide",
+  "semis": "Vers la mi-mars sous abri",
+  "plantation": {
+    "date": "mars, avril",
+    "creuser": "Il faut planter en ligne, creuser un trou de 20 cm de profondeur et de la largeur du tubercule, espacez les trou de 35 cm et les lignes de 70 cm.",
+    "engrais": "Ajouter un engrais à fond riche de potassium",
+    "planter": "planter le tubercules, germes vers le haut",
+    "recouvrir": "recouvrir de terre, et ne pas trop tasser",
+    "arroser": "arroser abondamment"
+  },
+  "arrosage": "Un arrosage le soir est recommandé lorsqu’il fait chaud et que vous voyez le feuillage flétrir. Ne pas mouiller les feuilles pour éviter l’apparition de maladies comme les champignons.",
+  "recolte": "Recolter lorsque le feuillage est jauni",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le froid",
+  "parasite": "Les pucerons et la mineuse de pomme de terre",
+  "maladie": "Le mildiou",
+  "conseils": "Une bonne couche de paillage (paillis de lin, de chanvre…) est bénéfique afin de préserver la chaleur du sol. Pour de plus belles tomates apportez un engrais organique spécial tomates une à 2 fois par mois.",
+  "determinant": "la",
+  "pluriel": "patates"
+}

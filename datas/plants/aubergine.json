@@ -1,0 +1,43 @@
+{
+  "nom": "aubergine",
+  "difficulte": "Moyen",
+  "hauteur minimum": "50",
+  "hauteur maximum": "60",
+  "type de sol": "Besoin d'une terre enrichie en matière organique.",
+  "semis": "De fin février à mi-mars.",
+  "plantation": {
+    "date": "mai, juin",
+    "creuser": "Il faut creuser un trou de deux fois la taille du pied",
+    "engrais": "Mélangez du terreau ou du compost avec la terre afin de garantir une alimentation en quantité suffisante",
+    "planter": "mettre un peu du mélange au fond du trou et mettre le plant dans le trou",
+    "recouvrir": "combler le trou avec le mélange, et tasser en forme de cuvette",
+    "arroser": "arroser abondamment sans mouiller le feuillage"
+  },
+  "arrosage": "En été, arrosez copieusement au pied des plantes sans mouiller le feuillage.",
+  "entretien": "Une bonne couche de paillage (paillis de lin, de chanvre…) est bénéfique, afin de garder le plant au chaud.",
+  "recolte": "C'est de juillet à octobre, quand elles sont bien colorées et souples sous la pression des doigts sans être molles.",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le froid",
+  "parasite": "",
+  "maladie": "",
+  "conseils": "Pour les débutants, veuillez préférer la plantation au semis, car le semis est plus difficile.",
+  "determinant": "l'",
+  "pluriel": "aubergines"
+}

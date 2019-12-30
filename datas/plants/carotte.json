@@ -1,0 +1,42 @@
+{
+  "nom": "carotte",
+  "difficulte": "Facile",
+  "hauteur minimum": "20",
+  "hauteur maximum": "30",
+  "type de sol": "Sol léger et sableux",
+  "semis": " Une fois les plants d’une hauteur de 10 centimètres, éliminez les plants en trop pour ne laisser qu’un plant tous les 10 centimètres.",
+  "plantation": {
+    "date": "janvier, février, mars, avril, mai, juin",
+    "creuser": "Il faut faire un sillon de 1 centimètre de profondeur",
+    "engrais": "Mélanger du fumier avec la terre",
+    "planter": "semer les graines,assez espacés les unes des autres. Une astuce de grand mère. Tu peut mélanger t-on sachet de graine dans un bole avec du sable. Et de répartir le mélange dans le sillon. Puis tasse bien le sable avec un tasseau. Cela pèrmètera de mieux répartire les graines dans le sillon.",
+    "recouvrir": "recouvrir de terre, et tasser avec le dos du rateau",
+    "arroser": "maintenir la terre humides pendant 3 semaines."
+  },
+  "arrosage": "Fréquents mais leger",
+  "recolte": "Une fois les plants d’une hauteur de 10 centimètres, éliminez les plants en trop pour ne laisser qu’un plant tous les 10 centimètres. Attendre 3 à 6 mois après le semis.",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le froid",
+  "parasite": "La mouche de la carotte",
+  "maladie": "Alternariose",
+  "conseils": "Pour protéger la carotte de la mouche, planter autour des poireaux/oignons ou de la coriandre. Ou alors, placer un filet autour des plants de carottes. Une fois les plants d’une hauteur de 10 centimètres, éliminez les plants en trop pour ne laisser qu’un plant tous les 10 centimètres",
+  "determinant": "la",
+  "pluriel": "carottes"
+}

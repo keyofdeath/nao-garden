@@ -1,0 +1,12 @@
+{
+"name":"Récup info Pot",
+"desc":"Tu dois planter le capteur dans un pot numéroté {}",
+"xp":0,
+"repeatable":true,
+"on_fail_exit":false,
+"question":"As-tu planté le capteur ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

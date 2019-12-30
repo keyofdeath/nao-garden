@@ -1,0 +1,41 @@
+{
+  "nom": "crocus",
+  "nom latin": "Crocus",
+  "difficulte": "Facile",
+  "hauteur minimum": "10",
+  "hauteur maximum": "15",
+  "type de sol": "Un sol ordinaire fera l'affaire. Eviter toutefois les sols caillouteux ou trop humides",
+  "plantation": {
+    "date": "avril, mai, juin",
+    "creuser": "Il faut creusez un trou de 4 ou 5 centimètres de profondeur pour chaque bulbe, espacez chacun de 10 centimètres",
+    "engrais": false,
+    "planter": "mettre un bulbe dans chaque trou",
+    "recouvrir": "combler le trou avec de la terre",
+    "arroser": "arroser abondamment"
+  },
+  "arrosage": "Arroser régulièrement afin de garder la terre humide. Veiller à ne pas arroser les fleurs !",
+  "recolte": "Vous pouvez récupérer vos fleurs quand elles commencent à jaunir.",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le gel principalement",
+  "parasite": "Les mauvaises herbes empêchent vos fleurs de se développer correctement. Penser à désherber régulièrement !",
+  "entretien": "Retirer régulièrement les mauvaises herbes qui menacent la fleur. Pailler le sol des bulbes avec de l’écorce de pin ou des coupes de gazon. Attendre que la fleur commence à jaunir pour la couper.",
+  "determinant": "le",
+  "pluriel": "crocus"
+}

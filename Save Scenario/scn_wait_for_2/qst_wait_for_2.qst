@@ -1,0 +1,10 @@
+{
+"name":"Quête wait for 2",
+"desc":"",
+"xp":0,
+"wait_for":"0",
+"wait_for_text":"Wait for quête 2",
+"optional":false,
+"objectives":["obj_wait_for_2_1","obj_wait_for_2_2"],
+"next_quests":["qst_wait_for_2_2"]
+}

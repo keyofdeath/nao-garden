@@ -1,0 +1,14 @@
+{
+"name":"Objectif 1 démo réunion",
+"desc":"Une description pas comme les autres",
+"xp":0,
+"wait_for":"True",
+"wait_for_text":"On attend l'utilisateur !",
+"repeatable":false,
+"on_fail_exit":false,
+"question":"As-tu compris ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

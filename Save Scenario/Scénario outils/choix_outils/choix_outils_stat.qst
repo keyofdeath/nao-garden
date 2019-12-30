@@ -1,0 +1,8 @@
+{
+"name":"Choix d'un outils (statique)",
+"desc":"",
+"xp":3,
+"optional":false,
+"objectives":["choix_outils_stat"],
+"next_quests":[]
+}

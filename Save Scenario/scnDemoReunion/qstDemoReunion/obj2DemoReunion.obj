@@ -1,0 +1,15 @@
+{
+"name":"Objectif 2 démo réunion",
+"desc":"Une description pas comme les autres",
+"xp":0,
+"wait_for":"False",
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Patate ou carotte ?",
+"answer_yes":true,
+"type":"kw",
+"keywords":["patate","carotte"],
+"kw2id":{"patate":"patates","carotte":"carottes"},
+"values_max":[],
+"values_min":[]
+}

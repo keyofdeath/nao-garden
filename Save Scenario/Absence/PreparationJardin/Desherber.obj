@@ -1,0 +1,12 @@
+{
+"name":"Desherber le terrain",
+"desc":"Avant ton départ un bon désherbage ne fera pas de mal à ton jardin.",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"as-tu compris ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

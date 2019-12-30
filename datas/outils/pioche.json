@@ -1,0 +1,10 @@
+{
+    "nom":"pioche",
+    "taille":"90 centimètres",
+    "difficulte":"Moyen",
+    "poids":"3 kilogrammes",
+    "fonction":"permet de deterrer les gros cailloux ",
+    "determinant" : "la",
+    "pluriel" : "pioches",
+    "utilisation" : "Pour te servir d'une pioche, c'est simple. Prends le manche à deux mains, et plante le bout pointu derrière le caillou que tu veux déterrer. Ramène l'outil vers toi. Tu peux alors récupérer le caillou, et l'enlever de ton jardin."
+}

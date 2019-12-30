@@ -1,0 +1,12 @@
+{
+"name":"Nombre de pots",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Combien de pots possèdes-tu ?",
+"answer_yes":true,
+"type":"info",
+"values_max":[],
+"values_min":[]
+}

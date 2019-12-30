@@ -1,0 +1,8 @@
+{
+"name":"Infos préalables",
+"desc":"",
+"xp":0,
+"optional":false,
+"objectives":["recupCapteur","nbPots"],
+"next_quests":[]
+}

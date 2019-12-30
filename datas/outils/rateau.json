@@ -1,0 +1,10 @@
+{
+    "nom":"rateau",
+    "taille":"165 centimètres",
+    "difficulte":"facile",
+    "poids":"1 kilogramme 500",
+    "fonction":"permet de rammasser les feuilles mortes ou l'herbe coupée",
+    "determinant" : "le",
+    "pluriel" : "rateaux",
+    "utilisation" : "Pour te servir d'un rateau, c'est simple. Prends le manche à deux mains, et pose la partie métallique sur le sol, les dents vers le bas. Ramène ensuite les dents vers toi. Continue jusqu'à ce que tu ais fini de ramasser les feuilles ou l'herbe."
+}

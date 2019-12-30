@@ -1,0 +1,16 @@
+{
+"name":"Récupérer nom du capteur",
+"desc":"",
+"xp":0,
+"help_kw":"0",
+"pres":"False",
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Quel capteur veux-tu utiliser ?",
+"answer_yes":true,
+"type":"kw",
+"keywords":["gisèle","bernard"],
+"kw2id":{"gisèle":"premier","bernard":"deuxième"},
+"values_max":[],
+"values_min":[]
+}

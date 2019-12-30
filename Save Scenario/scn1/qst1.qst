@@ -1,0 +1,9 @@
+{
+"name":"Quête 1",
+"desc":"",
+"xp":0,
+"pres":false,
+"optional":false,
+"objectives":["obj1","obj2"],
+"next_quests":["qst2"]
+}

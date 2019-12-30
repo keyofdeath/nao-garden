@@ -1,0 +1,10 @@
+{
+    "nom":"brouette",
+    "taille":"68 centimètres",
+    "difficulte":"Moyen",
+    "poids":"15 kilogrammes",
+    "fonction":"permet de transporter du terreau, du fumier, ou d'autres masses encombrantes",
+    "determinant" : "la",
+    "pluriel" : "brouettes",
+    "utilisation" : "La brouette est un outil lourd ! Demande à un adulte de t'aider si tu n'arrives pas à la pousser. A l'aide d'une pelle ou de tes mains, remplis-la de ce que tu veux transporter. Ensuite, soulève les deux poignées, et fait-la rouler."
+}

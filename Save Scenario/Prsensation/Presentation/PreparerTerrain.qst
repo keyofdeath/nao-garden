@@ -1,0 +1,9 @@
+{
+"name":"Preparer terrain pour la plante {}",
+"desc":"",
+"xp":0,
+"pres":true,
+"optional":false,
+"objectives":["Desherber","Creuser"],
+"next_quests":[]
+}

@@ -1,0 +1,15 @@
+{
+"name":"planter Capteur",
+"desc":"Avent que tu arrose, t-on peau. Il faut que je regarde la température. Il faut juste que tu plante le capteur dans t-on peau.",
+"xp":0,
+"wait_for":true,
+"wait_for_text":"Renvien me voire quand tu auras planter le capteur",
+"pres":false,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"custom",
+"values_max":[],
+"values_min":[]
+}

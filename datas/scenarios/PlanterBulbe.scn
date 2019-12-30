@@ -1,0 +1,8 @@
+{
+"name":"Planter Bulbe",
+"desc":"",
+"xp":0,
+"pres":false,
+"starting_quest":"BulbeChoisi",
+"next_scenario":[]
+}

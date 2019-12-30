@@ -1,0 +1,12 @@
+{
+  "name":"Choisir plante",
+  "desc":"Demander à l'utilisateur la plante voulue",
+  "pres":false,
+  "on_fail_exit":false,
+  "question":"Quelle plante désires-tu planter parmis {}?",
+  "keywords":[],
+  "kw2id":{},
+  "type":"kw",
+  "repeatable":true,
+  "text_on_success": "Tu as terminé l'objectif"
+}

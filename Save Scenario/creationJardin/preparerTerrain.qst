@@ -1,0 +1,10 @@
+{
+  "name":"preparation du terrain pour les {}",
+  "desc":"Tu vas preparer le terrain pour la plante {}",
+  "pres":true,
+  "optional":false,
+  "xp":3,
+  "next_quests":[],
+
+  "objectives":["desherbage", "creuser1", "creuser2", "engrais1", "engrais2"]
+}

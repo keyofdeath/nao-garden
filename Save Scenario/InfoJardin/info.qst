@@ -1,0 +1,8 @@
+{
+"name":"info",
+"desc":"",
+"xp":0,
+"optional":false,
+"objectives":["valeurJardin"],
+"next_quests":[]
+}

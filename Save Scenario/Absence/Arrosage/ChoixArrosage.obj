@@ -1,0 +1,12 @@
+{
+"name":"Choisir arrosage",
+"desc":"Un système d'arrosage est à prévoir pendant ton absence. Plusieurs systèmes peuvent être mis en place en fonction du temps de ton absence. Les systèmes d'arrosage les plus connus sont l'arrosage goutte à goutte, et l'arrosage avec un programmateur. Pour les plus petits potagers, un arrosage goutte à goutte fait aussi un bon travail, mais le bricolage de la bouteille d'eau est un système moin cher et aussi efficace.",
+"xp":1,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Veux tu que je t'envoie un mail pour avoir toutes sortes d'instructions sur l'arrosage ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

@@ -1,0 +1,9 @@
+{
+"name":"QCM",
+"desc":"",
+"xp":2,
+"pres":false,
+"optional":false,
+"objectives":["q1","q2"],
+"next_quests":["resultat"]
+}

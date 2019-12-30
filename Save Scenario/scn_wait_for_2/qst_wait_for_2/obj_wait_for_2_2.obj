@@ -1,0 +1,13 @@
+{
+"name":"Objectif wait for 2.2",
+"desc":"",
+"xp":0,
+"wait_for":"0",
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Veux tu passer à la suite ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

@@ -1,0 +1,42 @@
+{
+  "nom": "citron",
+  "nom latin": "Citrus Limon",
+  "difficulte": "Moyen",
+  "hauteur minimum": "300",
+  "hauteur maximum": "600",
+  "type de sol": "Sol riche et bien drainé",
+  "plantation": {
+    "date": "mars, avril, mai, juin",
+    "creuser": "Il faut creuser un trou de 3 fois la hauteur et la largeur du plant.",
+    "engrais": "Pour que le citronnier se développe bien, mélanger la terre avec du terreau spécial plantation",
+    "planter": "poser au fond du trou un lit de gravier ou de billes d’argile, puis mettre le plant dans le trou",
+    "recouvrir": "reboucher le trou avec le mélange, et bien tasser",
+    "arroser": "arroser sans excès"
+  },
+  "arrosage": "Arroser régulièrement les 2 premières années et sans excès, afin de ne pas inonder les racines. Le citronnier peut également survivre uniquement avec de l’eau de pluie, surtout en région humide. Les feuilles de l’arbre pendent mollement vers le bas quand il a soif.",
+  "recolte": "C'est surtout en hiver que vous récolterez les meilleurs citrons",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le gel et la sécheresse.",
+  "parasite": "Les pucerons et les cochenilles sont des tueurs de citronniers !",
+  "maladie": "La moniliose est extrêmement dangereuse pour les citrons !",
+  "entretien": "Tailler régulièrement votre arbre pour éviter qu’il ne prenne une taille trop importante. Apporter régulièrement un engrais organique spécial agrume.",
+  "determinant": "le",
+  "pluriel": "citrons"
+}

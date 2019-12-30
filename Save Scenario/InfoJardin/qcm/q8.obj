@@ -1,0 +1,14 @@
+{
+"name":"q8",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Qu'est-ce que le bouturage ? Réponse 1. Un mode de pousse. Réponse 2. Un mode d'entretien. Réponse 3. Un mode de clonage.",
+"answer_yes":true,
+"type":"kw",
+"keywords":["1","2","3"],
+"kw2id":{"1":"un","2":"deux","3":"trois"},
+"values_max":[],
+"values_min":[]
+}

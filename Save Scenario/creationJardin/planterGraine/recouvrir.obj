@@ -1,0 +1,8 @@
+{
+  "desc":"Fais ce que je te dicte : {}",
+  "pres":true,
+  "on_fail_exit":true,
+  "question": "as-tu compris ?",
+  "type":"yn",
+  "answer_yes":true
+}

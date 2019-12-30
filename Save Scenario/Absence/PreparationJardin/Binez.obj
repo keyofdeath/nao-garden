@@ -1,0 +1,12 @@
+{
+"name":"Biner son jardin",
+"desc":"Biner la terre pour casser les croûtes de surface et favoriser l'absorption de l'eau",
+"xp":1,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Tout va bien ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

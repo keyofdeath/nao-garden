@@ -1,0 +1,10 @@
+{
+  "desc":"Desherber le terrain",
+  "pres":false,
+  "on_fail_exit":false,
+  "question":"Y a t-il des mauvaises herbes ?",
+  "type":"yn",
+  "answer_yes":false,
+
+  "xp":1
+}

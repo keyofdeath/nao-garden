@@ -1,0 +1,15 @@
+{
+"name":"Recouvrir et Arroser",
+"desc":"Tu peut recouvrir et tu dois {}.",
+"xp":1,
+"wait_for":true,
+"wait_for_text":"Renvien me voir une fois que tu auras acomplie t-on objectif",
+"pres":true,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"A tu compris ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

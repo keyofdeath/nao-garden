@@ -1,0 +1,41 @@
+{
+  "nom": "framboise",
+  "nom latin": "Rubus idaeus",
+  "difficulte": "Moyen",
+  "hauteur minimum": "100",
+  "hauteur maximum": "200",
+  "type de sol": "Sol riche",
+  "plantation": {
+    "date": "septembre, octobre",
+    "creuser": "Il faut creuser des trous de la largeur et la profondeur adéquate au plant et en ligne",
+    "engrais": "Mélangez du terreau ou du compost avec la terre afin de garantir une alimentation en quantité suffisante",
+    "planter": "mettre le plant dans le trou avec un tuteur",
+    "recouvrir": "combler le trou avec de la terre, et tasser en forme de cuvette",
+    "arroser": "arroser abondamment"
+  },
+  "arrosage": "Arroser tous les deux jours en cas de forte chaleur. Les feuilles s’inclinent vers le bas quand le framboisier a soif. Surveillez bien votre plante !",
+  "recolte": "De juin à octobre, vos framboises sont prêtes pour la récolte !",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le froid et la sécheresse",
+  "parasite": "Les pucerons, les vers de framboises et les punaises sont une véritable plaie !",
+  "entretien": "Pailler le sol pour garder le sol humide. Supprimer régulièrement les drageons.",
+  "determinant": "la",
+  "pluriel": "framboises"
+}

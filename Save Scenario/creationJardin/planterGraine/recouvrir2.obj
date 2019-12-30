@@ -1,0 +1,10 @@
+{
+  "desc":"Fais ce que je te dicte : {}",
+  "pres":false,
+  "on_fail_exit":false,
+  "question": "as-tu reboucher le trou ?",
+  "type":"yn",
+  "answer_yes":true,
+
+  "xp":1
+}

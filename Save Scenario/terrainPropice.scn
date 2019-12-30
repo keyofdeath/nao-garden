@@ -1,0 +1,8 @@
+{
+"name":"Terrain Propice SCN",
+"desc":"",
+"xp":0,
+"pres":false,
+"starting_quest":"infosCapteur",
+"next_scenario":[]
+}

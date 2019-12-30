@@ -1,0 +1,12 @@
+{
+"name":"Choix outils (dyna)",
+"desc":"",
+"xp":3,
+"repeatable":true,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"kw",
+"values_max":[],
+"values_min":[]
+}

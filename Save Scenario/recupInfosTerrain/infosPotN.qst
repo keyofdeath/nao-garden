@@ -1,0 +1,8 @@
+{
+"name":"Récupérer infos du {} pot",
+"desc":"",
+"xp":0,
+"optional":false,
+"objectives":["planterCapteur"],
+"next_quests":[]
+}

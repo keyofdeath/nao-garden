@@ -1,0 +1,9 @@
+{
+"name":"Planter",
+"desc":"",
+"xp":0,
+"pres":true,
+"optional":false,
+"objectives":["planter","RecouvrirArroser","FinEtRecolte"],
+"next_quests":[]
+}

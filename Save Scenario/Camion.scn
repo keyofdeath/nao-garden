@@ -1,0 +1,7 @@
+{
+"name":"Camion",
+"desc":"je vais conduire",
+"xp":0,
+"starting_quest":"CommentConduire",
+"next_scenario":[]
+}

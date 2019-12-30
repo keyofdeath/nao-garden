@@ -1,0 +1,10 @@
+{
+  "desc":"Pour cette plante, {}",
+  "pres":false,
+  "on_fail_exit":false,
+  "question":"As tu ajouté l'engrais ? S'il ne fallait pas en mettre réponds moi oui quand même !",
+  "type":"yn",
+  "answer_yes":true,
+
+  "xp": 1
+}

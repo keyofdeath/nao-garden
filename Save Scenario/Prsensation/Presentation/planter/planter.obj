@@ -1,0 +1,15 @@
+{
+"name":"planter",
+"desc":"Pour cette plante, il faut : {}",
+"xp":1,
+"wait_for":true,
+"wait_for_text":"Revien me voir une fois que tu auras fini",
+"pres":true,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Tout va bien ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

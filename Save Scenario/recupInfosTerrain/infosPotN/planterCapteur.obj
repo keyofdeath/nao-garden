@@ -1,0 +1,12 @@
+{
+"name":"Planter capteur dans le pot",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"As-tu planté le capteur dans le {} pot ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

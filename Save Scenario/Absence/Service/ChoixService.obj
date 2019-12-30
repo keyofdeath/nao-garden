@@ -1,0 +1,15 @@
+{
+"name":"Choix service pendant sont absence",
+"desc":"",
+"xp":1,
+"wait_for":"0",
+"repeatable":true,
+"on_fail_exit":false,
+"question":"Que veux tu mettre en place pendant ton absence ? Un arrosage automatique, ou des explications pour préparer ton jardin avant ton départ ?",
+"answer_yes":true,
+"type":"kw",
+"keywords":["arrosage","éxplication"],
+"kw2id":{"arrosage":"arrosages","éxplication":"éxplications"},
+"values_max":[],
+"values_min":[]
+}

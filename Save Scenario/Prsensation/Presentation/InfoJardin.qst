@@ -1,0 +1,9 @@
+{
+"name":"Info sur le jardin",
+"desc":"",
+"xp":0,
+"pres":false,
+"optional":false,
+"objectives":["InfoJardin"],
+"next_quests":["ChoixGraine"]
+}

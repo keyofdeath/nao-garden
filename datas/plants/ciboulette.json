@@ -1,0 +1,42 @@
+{
+  "nom": "ciboulette",
+  "difficulte": "Facile",
+  "hauteur minimum": "20",
+  "hauteur maximum": "40",
+  "type de sol": "Prospère en tout sol mais préfère les sols fertiles.",
+  "plantation": {
+    "date": "mars, avril, mai, juin",
+    "creuser": "Il faut creuser un trou assez large et profond pour pouvoir planter le pied",
+    "engrais": false,
+    "planter": "mettre le plant dans le trou",
+    "recouvrir": "combler le trou avec de la terre",
+    "arroser": "arroser quelque peu la plante"
+  },
+  "arrosage": "La première année arrosez régulièrement, sans excès. A partir de la seconde année, prévoir un arrosage réguliers en été : deux fois par semaines s'il ne pleut pas.",
+  "entretien": "Avant l'hiver, coupez la ciboulette au ras du sol et couvrez d'une poignée de compost.",
+  "recolte": "Avril à novembre.",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Aucune",
+  "parasite": "",
+  "maladie": "",
+  "conseils": "La tailler souvent, ainsi elle ne s’affaiblit pas. Tous les 2-3 ans, effectuer une division : la déplanter et la replanter à un autre endroit en ajoutant un peu de composte dans le trou.",
+  "determinant": "la",
+  "pluriel": "ciboulettes"
+}

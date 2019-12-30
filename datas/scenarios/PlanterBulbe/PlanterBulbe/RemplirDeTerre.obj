@@ -1,0 +1,15 @@
+{
+"name":"Remplir de terre",
+"desc":"Maintenemps que tu a choisi t-on bullbe tu peut aller remplire t-on pôts de terre.",
+"xp":0,
+"wait_for":true,
+"wait_for_text":"Renviens me voir une fois que tu auras fini",
+"pres":false,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"custom",
+"values_max":[],
+"values_min":[]
+}

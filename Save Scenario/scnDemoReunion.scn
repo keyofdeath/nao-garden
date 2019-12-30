@@ -1,0 +1,7 @@
+{
+"name":"Scénario de Démo de la Réunion",
+"desc":"Ceci est une description d'une démonstration d'un scénario lors d'une réunion.",
+"xp":0,
+"starting_quest":"qstDemoReunion",
+"next_scenario":[]
+}

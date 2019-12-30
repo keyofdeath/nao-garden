@@ -1,0 +1,8 @@
+{
+"name":"choix",
+"desc":"",
+"xp":0,
+"optional":false,
+"objectives":["choix"],
+"next_quests":[]
+}

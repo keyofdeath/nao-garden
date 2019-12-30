@@ -1,0 +1,9 @@
+{
+"name":"Planter Bulbe",
+"desc":"",
+"xp":0,
+"pres":false,
+"optional":false,
+"objectives":["RemplirDeTerre","ValidationRemplirTerre","PlanterBulbe","ValiderPlanterBulbe"],
+"next_quests":["ArroserBulbe"]
+}

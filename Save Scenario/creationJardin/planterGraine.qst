@@ -1,0 +1,9 @@
+{
+  "name":"preparation du terrain",
+  "desc":"Tu vas planter la plante {}",
+  "pres":false,
+  "optional":false,
+  "xp":3,
+  "next_quests":["finCreationJardin"],
+  "objectives":["planter", "planter2", "recouvrir", "recouvrir2", "arroser", "arroser2"]
+}

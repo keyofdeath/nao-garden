@@ -1,0 +1,12 @@
+{
+"name":"Objectif wait_for 2",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Veux-tu passer à la suite",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

@@ -1,0 +1,9 @@
+# comentaire
+Balise:
+    <prenom> -> attend un prénom
+    <nb> -> attend un chiffre
+
+
+Cette ligne va prendre la phrase 1 2 3 de la categorie demande est si il y a une
+balise prenom il va la remplasser par bob
+ph1 = Cree("demande", {'prenom':'bob'}, 1,2,3)

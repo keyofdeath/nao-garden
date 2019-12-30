@@ -1,0 +1,8 @@
+{
+"name":"Choix des services",
+"desc":"",
+"xp":1,
+"optional":false,
+"objectives":["ChoixService"],
+"next_quests":[]
+}

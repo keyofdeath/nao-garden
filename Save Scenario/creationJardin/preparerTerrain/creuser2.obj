@@ -1,0 +1,10 @@
+{
+  "desc":"Verification de creuser",
+  "pres":false,
+  "on_fail_exit":false,
+  "question":"As tu fais les trous ?",
+  "type":"yn",
+  "answer_yes":true,
+
+  "xp":1
+}

@@ -1,0 +1,10 @@
+{
+  "desc":"Pour cette plante, tu dois {}",
+  "pres":true,
+  "on_fail_exit":true,
+  "question":"As tu compris ?",
+  "type":"yn",
+  "answer_yes":true
+
+
+}

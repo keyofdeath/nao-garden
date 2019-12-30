@@ -1,0 +1,42 @@
+{
+  "nom": "laitue",
+  "difficulte": "Facile",
+  "hauteur maximum": "30",
+  "type de sol": "Sol riche et frais.",
+  "semis": "La laitue pommée se sème de mai à aout. Semez en lignes distantes de 15 cm de petites quantités de manière régulière pour ne pas être en surproduction. Eclaircissez vos plants pour n’en garder qu’un tous les 30 cm. Récolter au fur et à mesure de vos besoins. Si vous préférez les plants, respectez une distance de 30 cm entre chaque plant. ",
+  "plantation": {
+    "date": "mai, juin, juillet, aout",
+    "creuser": "Il faut faire un sillon de 1 centimètre de profondeur",
+    "engrais": false,
+    "planter": "planter les graines,espacés les unes des autres de 15 cm environ",
+    "recouvrir": "recouvrir de terre, et tasser avec le dos du rateau",
+    "arroser": "arroser sans excès"
+  },
+  "arrosage": "La laitue demande peu d’entretien durant toute sa croissance, excepté un arrosage régulier mais mesuré.",
+  "entretien": "On ne taille pas les salades !",
+  "recolte": "Lorsque les salades ont atteint une bonne taille, utiliser un bon couteau et coupez la laitue au niveau du collet, ceci vous assurera une bonne repousse.",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "La chaleur",
+  "parasite": "Limaces et escargots",
+  "maladie": "",
+  "conseils": "Pensez à protéger vos salades des limaces en plantant de la bourrache à proximité. Lors de la récolte, déguster immédiatement pour profiter de toutes ses qualités nutritives (vitamine C, provitamine A), elle est idéale pour vos salades composées !",
+  "determinant": "la",
+  "pluriel": "laitues"
+}

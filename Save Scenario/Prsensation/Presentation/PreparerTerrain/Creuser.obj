@@ -1,0 +1,15 @@
+{
+"name":"Creuser",
+"desc":"Pour cette plante, {}",
+"xp":2,
+"wait_for":true,
+"wait_for_text":"Bonne chance",
+"pres":true,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"As tu compris ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

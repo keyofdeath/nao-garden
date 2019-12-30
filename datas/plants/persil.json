@@ -1,0 +1,42 @@
+{
+  "nom": "persil",
+  "difficulte": "Facile",
+  "hauteur minimum": "25",
+  "hauteur maximum": "30",
+  "type de sol": "Riche et léger.",
+  "plantation": {
+    "date": "février, mars, avril, mais, juin, juillet",
+    "creuser": "Il faut former des sillons tous les 15 cm.",
+    "engrais": "Mélangez du terreau ou du compost avec la terre afin de garantir une alimentation en quantité suffisante",
+    "planter": "enfouir les graines dans 1 à 2 cm et couvrir de terreau",
+    "recouvrir": "recouvrir de terre, et ne pas trop tasser",
+    "arroser": "arroser régulièrement en pluie fine jusqu’à la levée qui peut durer jusqu’à 3 semaines."
+  },
+  "arrosage": "La premiere année arrosez régulièrement, sans exces. A partir de la seconde année prevoir un arrosage réguliers en été. L'idéal ? Deux fois par semaines s'il ne pleut pas.",
+  "entretien": "Avant l'hiver, arrachez le persil.",
+  "recolte": "C'est presque toute l'année, sous cloche en période froide.",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Aucune",
+  "parasite": "Mouche de la carotte, pucerons",
+  "maladie": "Fumagine, Alternariose et l'oïdium.",
+  "conseils": "Lors du semis, mettre une cagette par-dessus les graines après l’arrosage, ainsi, cela permet de garder l’humidité.",
+  "determinant": "le",
+  "pluriel": "persils"
+}

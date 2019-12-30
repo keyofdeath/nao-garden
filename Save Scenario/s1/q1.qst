@@ -1,0 +1,8 @@
+{
+"name":"q1",
+"desc":"",
+"xp":0,
+"optional":false,
+"objectives":[],
+"next_quests":["q2","q3"]
+}

@@ -1,0 +1,12 @@
+{
+"name":"Paillez abondamment",
+"desc":"Paillez abondamment, environ de 10 cm pour freiner la pousse des mauvaises herbes, maintenir une certaine fraîcheur et retenir l'eau.",
+"xp":1,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"as-tu compris ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

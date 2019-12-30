@@ -1,0 +1,15 @@
+{
+"name":"Planter Bulbe",
+"desc":"Maintenant,  tu va planter t-on bulbe. {}. Puis tu peut le recouvrir de terre.",
+"xp":0,
+"wait_for":true,
+"wait_for_text":"Renviens me voir quand tu auras planté le bulbe.",
+"pres":false,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"custom",
+"values_max":[],
+"values_min":[]
+}

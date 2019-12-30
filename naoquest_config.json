@@ -1,0 +1,14 @@
+{
+  "scenarios": {
+    "path":"datas/scenarios/{}.scn"
+  },
+  "quests": {
+    "path":"datas/scenarios/{}/{}.qst"
+  },
+  "objectives": {
+    "path":"datas/scenarios/{}/{}/{}.obj"
+  },
+  "scripts": {
+    "path":"datas/scenarios/scripts/{}_{}.py"
+  }
+}

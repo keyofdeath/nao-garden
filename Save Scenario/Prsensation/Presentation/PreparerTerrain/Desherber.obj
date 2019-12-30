@@ -1,0 +1,14 @@
+{
+"name":"Desherber",
+"desc":"",
+"xp":2,
+"wait_for":true,
+"wait_for_text":"Revien me voir une fois fait",
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Y a t-il des mauvaises herbes ?",
+"answer_yes":false,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

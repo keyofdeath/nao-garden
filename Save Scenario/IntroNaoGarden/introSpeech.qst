@@ -1,0 +1,9 @@
+{
+  "name":"Introduction a nao jardinier",
+  "desc":"Je vais expliquer se que tu va faire avec nao jardinier",
+  "pres":false,
+  "optional":false,
+  "xp":1,
+  "next_quests":[],
+  "objectives":["introSpeech"]
+}

@@ -1,0 +1,7 @@
+{
+"name":"TestEndingScn",
+"desc":"",
+"xp":0,
+"starting_quest":"TestEndingQst",
+"next_scenario":[]
+}

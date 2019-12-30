@@ -1,0 +1,15 @@
+{
+"name":"q1",
+"desc":"",
+"xp":0,
+"pres":false,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Le meilleur systeme d'exploitation est : linux , windows , macos",
+"answer_yes":true,
+"type":"kw",
+"keywords":["linux","windows","mac"],
+"kw2id":{"linux":"Linux","windows":"Windows","mac":"Mac"},
+"values_max":[],
+"values_min":[]
+}

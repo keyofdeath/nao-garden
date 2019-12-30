@@ -1,0 +1,14 @@
+{
+"name":"q4",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Le paillage est une méthode pour. Réponse 1. Protéger les plantes des excès de chaleur et de froid. Réponse 2. Empêcher l'évaporation de l'eau et prévenir les mauvaises herbes. Réponse 3. Les deux à la fois : protéger contre les excès de température et empêcher l'évaporation d'eau.",
+"answer_yes":true,
+"type":"kw",
+"keywords":["1","2","3"],
+"kw2id":{"1":"un","2":"deux","3":"trois"},
+"values_max":[],
+"values_min":[]
+}

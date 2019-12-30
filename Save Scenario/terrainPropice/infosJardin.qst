@@ -1,0 +1,8 @@
+{
+"name":"Infos Jardin",
+"desc":"Dans cette quête, nous allons planter ton capteurs dans tes différents pots afin de récupérer des informations sur ton jardin",
+"xp":0,
+"optional":false,
+"objectives":["infosPot","determinerTerrainPropice"],
+"next_quests":[]
+}

@@ -1,0 +1,8 @@
+{
+"name":"Arrosage",
+"desc":"",
+"xp":1,
+"optional":false,
+"objectives":["ChoixArrosage"],
+"next_quests":["FinAbsence"]
+}

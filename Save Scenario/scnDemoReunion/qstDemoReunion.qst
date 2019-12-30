@@ -1,0 +1,9 @@
+{
+"name":"Quête de démo de réunion",
+"desc":"",
+"xp":0,
+"pres":"False",
+"optional":false,
+"objectives":["obj1DemoReunion","obj2DemoReunion"],
+"next_quests":[]
+}

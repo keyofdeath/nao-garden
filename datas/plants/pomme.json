@@ -1,0 +1,42 @@
+{
+  "nom": "pomme",
+  "nom latin": "Malus Communis",
+  "difficulte": "Facile",
+  "hauteur minimum": "500",
+  "hauteur maximum": "1000",
+  "type de sol": "Sol riche et bien drainé",
+  "plantation": {
+    "date": "octobre, novembre, décembre, janvier, février, mars, avril",
+    "creuser": "Il faut creuser un trou de 50 centimètres de profondeur et 90 centimètres de large",
+    "engrais": "Mélangez 150 grammes de corne torréfiée à de la terre",
+    "planter": "remplir le tou de moitié avec le mélange et mettre le plant dans le trou",
+    "recouvrir": "planter un tuteur, combler le trou avec le mélange, et tasser en forme de cuvette",
+    "arroser": "arroser abondamment"
+  },
+  "arrosage": "Arrosage régulier lors des premières années. Après la formation de fruits, arroser copieusement en laissant un peu sécher la terre entre deux arrosages. Arroser de préférence le soir.",
+  "recolte": "La pomme se récolte entre août et novembre.",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le froid, comme tout le monde.",
+  "parasite": "Les pucerons et les cochenilles sont les ennemis du pommier !",
+  "maladie": "La moniliose est fatale.",
+  "entretien": "Apporter de l’engrais pour fruitier au printemps, faire une taille de fructification au début du printemps.",
+  "determinant": "la",
+  "pluriel": "pommes"
+}

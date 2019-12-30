@@ -1,0 +1,7 @@
+{
+"name":"Récupérer informations du terrain",
+"desc":"",
+"xp":0,
+"starting_quest":"infoPrea",
+"next_scenario":[]
+}

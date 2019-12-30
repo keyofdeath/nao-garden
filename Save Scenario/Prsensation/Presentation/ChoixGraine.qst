@@ -1,0 +1,9 @@
+{
+"name":"Choix graine",
+"desc":"",
+"xp":0,
+"pres":false,
+"optional":false,
+"objectives":["ChoixGraine"],
+"next_quests":[]
+}

@@ -1,0 +1,12 @@
+{
+"name":"Fin scénario absence",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"C'est la fin du scénario préparer ton absence",
+"answer_yes":true,
+"type":"info",
+"values_max":[],
+"values_min":[]
+}

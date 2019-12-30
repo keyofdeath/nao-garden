@@ -1,0 +1,41 @@
+{
+  "nom": "tulipe",
+  "nom latin": "Tulipa",
+  "difficulte": "Facile",
+  "hauteur minimum": "20",
+  "hauteur maximum": "75",
+  "type de sol": "Sol riche et bien drainé",
+  "plantation": {
+    "date": "septembre, octobre",
+    "creuser": "Il faut creuser un trou deux fois plus grand que le bulbe",
+    "engrais": "Disposer une bonne poignée de terreau au fond du trou",
+    "planter": "planter le bulbe",
+    "recouvrir": "combler le trou avec de la terre, et tasser",
+    "arroser": "arroser abondamment"
+  },
+  "arrosage": "Arroser régulièrement jusqu’à la sortie des fleurs. A ce moment-là, la pluviométrie suffit pour les apports en eau.",
+  "recolte": "Vos tulipes sont si belles qu'il serait dommage de les ramasser !",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le gel principalement",
+  "parasite": "Les mauvaises herbes empêchent vos fleurs de se développer correctement. Penser à désherber régulièrement !",
+  "entretien": "Dès la sortie de la première tige, un apport en engrais à bulbe est conseillé.",
+  "determinant": "la",
+  "pluriel": "tulipes"
+}

@@ -1,0 +1,10 @@
+{
+    "nom":"arrosoir",
+    "taille":"65 centimètres",
+    "difficulte":"facile",
+    "poids":"500 grammes",
+    "fonction":"permet d'arroser les plantes ",
+    "determinant" : "l'",
+    "pluriel" : "arrosoirs",
+    "utilisation" : "L'arrosoir est l'outil le plus facile à manier. Pour t'en servir, remplis-le d'eau. Penche-le ensuite en avant pour arroser les plantes qui ont soif !"
+}

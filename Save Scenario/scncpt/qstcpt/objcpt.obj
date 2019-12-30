@@ -1,0 +1,13 @@
+{
+"name":"objcpt",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"cpt",
+"values_max":{"temperature":11},
+"values_min":{"temperature":10},
+"nickname":"Giselle"
+}

@@ -1,0 +1,14 @@
+{
+"name":"q9",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Qu'est-ce qu'une grelinette ? Réponse 1. Une plante cousine du muguet. Réponse 2. Un outil de jardinage. Réponse 3. Une pipette d'arrosage.",
+"answer_yes":true,
+"type":"kw",
+"keywords":["1","2","3"],
+"kw2id":{"1":"un","2":"deux","3":"trois"},
+"values_max":[],
+"values_min":[]
+}

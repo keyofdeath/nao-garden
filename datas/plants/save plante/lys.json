@@ -1,0 +1,39 @@
+{
+  "nom": "lys",
+  "difficulte": "Facile",
+  "hauteur maximum": "800",
+  "type de sol": "Sol riche et bien drainée, en effet l'eau stagnante fait pourrir les bulbes",
+  "plantation": {
+    "date": "mars, avril, mai, juin",
+    "creuser": "Il faut creuser un trou de 15 centimètres de profondeur et de la largeur du bulbe et veuillez à ce que chaque trou soit au minimum espacé de 30 centimètres les uns des autres.",
+    "engrais": "Un engrais pour fleur à bulbe peut être intéressant afin d'obtenir une belle floraison",
+    "planter": "mettre le bulbe dans le trou",
+    "recouvrir": "combler le trou avec de la terre, et ne pas trop tasser",
+    "arroser": "arroser abondamment"
+  },
+  "arrosage": "Un arrosage régulier est nécessaire et en cas de forte chaleur, arroser le soir sans mouiller le feuilllage.",
+  "recolte": "Ce n'est pas une récolte a propement parler, mais on peux récupérer les fleurs afin d'en faire un bouquet. N'oubliez pas de couper les boutons floraux, car ils ne fleuriront pas",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 30.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le froid, la sécheresse et le criocère du Lys",
+  "floraison": "De juin à aout",
+  "entretien": "Une fois le lys planté, il ne nécessite pas trop d'entretien à part l'arrosage. N'oubliez pas de récupérer le bulbe une fois la floraison terminé afin de le protéger de l'hiver et de pouvoir ainsi le replanter l'année prochaine",
+  "determinant": "le",
+  "pluriel": "lys"
+}

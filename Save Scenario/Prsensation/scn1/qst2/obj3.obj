@@ -1,0 +1,14 @@
+{
+"name":"Objectif 3",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Qu'est-ce que tu préfères ?",
+"answer_yes":true,
+"type":"kw",
+"keywords":["patate","tomate","carotte"],
+"kw2id":{"patates":"patate","tomates":"tomate","carottes":"carotte"},
+"values_max":[],
+"values_min":[]
+}

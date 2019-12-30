@@ -1,0 +1,14 @@
+{
+"name":"FinEtrecolte",
+"desc":"Bravo tu a fini la plantation. Voici des petits conseille de récolte. {}",
+"xp":0,
+"wait_for":false,
+"pres":true,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"veut tu que je répaite",
+"answer_yes":false,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

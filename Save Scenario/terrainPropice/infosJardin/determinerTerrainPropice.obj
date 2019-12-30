@@ -1,0 +1,12 @@
+{
+"name":"Déterminer terrain propice",
+"desc":"Je vais désormais déterminer le ou les meilleurs pots à utiliser pour ton jardin.",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"custom",
+"values_max":[],
+"values_min":[]
+}

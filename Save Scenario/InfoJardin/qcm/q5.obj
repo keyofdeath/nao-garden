@@ -1,0 +1,14 @@
+{
+"name":"q5",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"A quelle période planter une plante ou un arbuste à racines nues ? Réponse 1. Entre le printemps et l'été. Réponse 2. Entre l'automne et l'hiver. réponse 3. Toute l'année.",
+"answer_yes":true,
+"type":"kw",
+"keywords":["1","2","3"],
+"kw2id":{"1":"un","2":"deux","3":"trois"},
+"values_max":[],
+"values_min":[]
+}

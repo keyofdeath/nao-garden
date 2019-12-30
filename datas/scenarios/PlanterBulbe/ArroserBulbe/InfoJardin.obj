@@ -1,0 +1,14 @@
+{
+"name":"Info Jardin",
+"desc":"{}",
+"xp":0,
+"wait_for":false,
+"pres":false,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"custom",
+"values_max":[],
+"values_min":[]
+}

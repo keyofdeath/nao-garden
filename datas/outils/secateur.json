@@ -1,0 +1,10 @@
+{
+    "nom":"secateur",
+    "taille":"20 centimètres",
+    "difficulte":"Moyen",
+    "poids":"130 grammes",
+    "fonction":"permet de tailler les branches en trop",
+    "determinant" : "le",
+    "pluriel" : "secateurs",
+    "utilisation" : "Pour te servir d'un sécateur, il faut te mettre des gants épais avant de l'utiliser. Sers-t'en comme d'une pince pour couper les branches en trop dans tes arbustes, ou pour tailler tes plantes. Attention de ne pas te couper !"
+}

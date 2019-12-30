@@ -1,0 +1,12 @@
+{
+"name":"Objectif 2",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Dis une phrase que je vais répéter",
+"answer_yes":true,
+"type":"info",
+"values_max":[],
+"values_min":[]
+}

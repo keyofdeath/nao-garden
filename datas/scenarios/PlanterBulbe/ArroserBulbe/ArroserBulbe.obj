@@ -1,0 +1,15 @@
+{
+"name":"Arroser Bulbe",
+"desc":"Maintenant tu dois {}",
+"xp":0,
+"pres":false,
+"wait_for":true,
+"wait_for_text":"Renviens me voir quand tu auras arrosé.",
+"repeatable":false,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"custom",
+"values_max":[],
+"values_min":[]
+}

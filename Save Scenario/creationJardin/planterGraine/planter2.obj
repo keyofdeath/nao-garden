@@ -1,0 +1,10 @@
+{
+  "desc":"Pour cette plante, il faut : {}",
+  "pres":false,
+  "on_fail_exit":false,
+  "question":" L'as-tu plantée ?",
+  "type":"yn",
+  "answer_yes":true,
+
+  "xp": 1
+}

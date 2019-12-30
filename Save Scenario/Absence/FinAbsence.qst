@@ -1,0 +1,8 @@
+{
+"name":"Fin scénario absence",
+"desc":"",
+"xp":0,
+"optional":false,
+"objectives":["FinAbsence"],
+"next_quests":[]
+}

@@ -1,0 +1,12 @@
+{
+"name":"Choix outils (stat)",
+"desc":"",
+"xp":0,
+"repeatable":true,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"kw",
+"values_max":[],
+"values_min":[]
+}

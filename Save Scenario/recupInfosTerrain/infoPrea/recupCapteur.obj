@@ -1,0 +1,14 @@
+{
+"name":"Récupérer capteur utilisé",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Quelle capteur veux-tu utiliser ?",
+"answer_yes":true,
+"type":"kw",
+"keywords":["giselle","bernard"],
+"kw2id":{"giselle":"giselle","bernard":"bernard"},
+"values_max":[],
+"values_min":[]
+}

@@ -1,0 +1,42 @@
+{
+  "nom": "abricot",
+  "nom latin": "Prunus Armeniaca",
+  "difficulte": "Moyen",
+  "hauteur minimum": "600",
+  "hauteur maximum": "800",
+  "type de sol": "Sol riche et bien drainé",
+  "plantation": {
+    "date": "octobre, novembre, décembre, janvier, février, mars, avril",
+    "creuser": "Il faut creuser un trou de 50 centimètres de profondeur et de 90 centimètres de large",
+    "engrais": "Mélanger 150 grammes de corne torréfiée avec la terre",
+    "planter": "reboucher de moitié le trou avec le mélange, mettre le plant dans le trou et planter un tuteur",
+    "recouvrir": "combler le trou avec de la terre, et tasser en forme de cuvette",
+    "arroser": "arroser abondamment"
+  },
+  "arrosage": "Arrosage régulier lors de la première année, laisser sécher un peu la terre entre deux arrosages. Après deux ou trois ans, un arrosage naturel suffit. En cas de sécheresse, l’hydrater copieusement une fois par semaine.",
+  "recolte": "En juillet et en août, quand leur chair est légèrement molle, vos abricots peuvent être récoltés !",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 50.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le froid et la sécheresse.",
+  "parasite": "Attention, les pucerons rafollent de vos abricots !",
+  "maladie": "La moniliose tue à tour de bras les jeunes abricotiers !",
+  "entretien": "Après la floraison, pulvériser de la bouillie bordelaise, notamment dans le but d’éviter la pourriture des abricots, appelée moniliose. Au printemps, enfouir 1 ou 2 poignée d’engrais pour arbre fruitier au pied de l’abricotier. A l’automne, répandre au pied de l’arbre du compost ou même du fumier.",
+  "determinant": "l'",
+  "pluriel": "abricots"
+}

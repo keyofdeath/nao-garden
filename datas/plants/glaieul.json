@@ -1,0 +1,39 @@
+{
+  "nom": "glaïeul",
+  "difficulte": "Facile",
+  "hauteur maximum": "700",
+  "type de sol": "Sol ordinaire, en effet l'eau stagnante fait pourrir les bulbes",
+  "plantation": {
+    "date": "mars, avril, mai, juin",
+    "creuser": "Il faut creuser un trou de 10 centimètres de profondeur. De la largeur du bulbe.",
+    "engrais": "Un engrais pour fleur à bulbe peut être intéressant afin d'obtenir une belle floraison",
+    "planter": "mettre le bulbe dans le trou",
+    "recouvrir": "combler le trou avec de la terre, et ne pas trop tasser",
+    "arroser": "arroser abondamment"
+  },
+  "arrosage": "Un arrosage régulier est nécessaire. En cas de forte chaleur, arroser le soir sans mouiller le feuillage.",
+  "recolte": "Ce n'est pas une récolte a propement parler, mais on peux récupérer les fleurs afin d'en faire un bouquet. N'oubliez pas de couper les boutons floraux, car ils ne fleuriront pas",
+  "valeursIdeales": {
+    "soil_moisture": {
+      "min": 50.0,
+      "max": 80.0
+    },
+    "light": {
+      "min": 5.0,
+      "max": 8.0
+    },
+    "temperature": {
+      "min": 20.0,
+      "max": 30.0
+    },
+    "fertilizer": {
+      "min": 0.2,
+      "max": 0.4
+    }
+  },
+  "faiblesse": "Le froid et la sécheresse.",
+  "floraison": "De juillet à octobre",
+  "entretien": "Supprimer les fleurs fanées au fur et à mesure afin de stimuler l’apparition d’une nouvelle floraison. Une fois l'hiver arrivé, il faut récupérer le bulbe. Pour cela, attendre que le feuillage jaunisse, puis couper court, à la base du plant puis récupéré le bulbe, il pourra être replanté le printemps prochain.",
+  "determinant": "le",
+  "pluriel": "glaïeuls"
+}

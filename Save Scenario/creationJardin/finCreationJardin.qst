@@ -1,0 +1,10 @@
+{
+  "name":"Fin",
+  "desc":"C'est la fin du scnenario, bien joué !",
+  "pres":false,
+  "optional":false,
+  "xp":0,
+  "next_quests":[],
+
+  "objectives":["finCreationJardin"]
+}

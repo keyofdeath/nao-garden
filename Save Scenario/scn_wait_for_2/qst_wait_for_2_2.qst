@@ -1,0 +1,10 @@
+{
+"name":"Quête wait for 2.2",
+"desc":"",
+"xp":0,
+"wait_for":"0",
+"wait_for_text":"Wait for qst 2.2",
+"optional":false,
+"objectives":[],
+"next_quests":[]
+}

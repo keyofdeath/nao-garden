@@ -1,0 +1,8 @@
+{
+"name":"Presentation",
+"desc":"",
+"xp":0,
+"pres":false,
+"starting_quest":"InfoJardin",
+"next_scenario":[]
+}

@@ -1,0 +1,10 @@
+{
+    "nom":"pelle",
+    "taille":"165 centimètres",
+    "difficulte":"Moyen",
+    "poids":"2 kilogrammes",
+    "fonction":"permet de creuser ou reboucher un trou, et tracer des sillons ",
+    "determinant" : "la",
+    "pluriel" : "pelles",
+    "utilisation" : "Pour te servir d'une pelle, c'est simple. Prends le manche à deux mains, et enfonce la partie métallique dans la terre. Remonte la ensuite vers l'avant, et dépose la terre à côté. Continue jusqu'à ce que tu sois satisfait de ton trou."
+}

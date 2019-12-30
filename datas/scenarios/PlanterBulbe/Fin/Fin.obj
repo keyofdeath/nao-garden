@@ -1,0 +1,13 @@
+{
+"name":"Fin",
+"desc":"Bravo tu a réussi à planter ton bulbe. Comme tu est mon amis je vais te donnée quelle que conseil. {}",
+"xp":0,
+"pres":false,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"",
+"answer_yes":true,
+"type":"custom",
+"values_max":[],
+"values_min":[]
+}

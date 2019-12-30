@@ -1,0 +1,8 @@
+{
+    "name":"Création d'un jardin",
+    "pres":false,
+    "desc":"Ce scénario vont vas vous apprendre a cree votre jardin. Vous allez planter des graines..",
+    "starting_quest":"choixGraine",
+
+    "xp":3
+}

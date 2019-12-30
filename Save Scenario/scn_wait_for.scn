@@ -1,0 +1,9 @@
+{
+"name":"Scénario wait for",
+"desc":"",
+"xp":0,
+"wait_for":"0",
+"wait_for_text":"Wait for du Scénario",
+"starting_quest":"qst_wait_for",
+"next_scenario":["scn_wait_for_2"]
+}

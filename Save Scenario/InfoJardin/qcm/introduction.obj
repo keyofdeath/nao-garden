@@ -1,0 +1,12 @@
+{
+"name":"introduction",
+"desc":"presentation du qcm",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Je vais te poser des questions, pour chaque question tu as le choix entre 3 reponses. Tu vas devoir me repondre 1, 2 ou 3 selon ta réponse. Amuse toi bien ! ",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

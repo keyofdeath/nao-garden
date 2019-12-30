@@ -1,0 +1,7 @@
+{
+"name":"ScnStartingQuest",
+"desc":"",
+"xp":0,
+"starting_quest":"QstStartingQuest",
+"next_scenario":[]
+}

@@ -1,0 +1,9 @@
+{
+"name":"Infos Capteur",
+"desc":"Nous allons récupérer le nom de ton capteur",
+"xp":0,
+"pres":false,
+"optional":false,
+"objectives":["TP_nomCapteur"],
+"next_quests":["infosJardin"]
+}

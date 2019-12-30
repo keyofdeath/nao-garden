@@ -1,0 +1,14 @@
+{
+"name":"Choix graine",
+"desc":"",
+"xp":0,
+"help_kw":"Choisi la graine que tu veut planter",
+"wait_for":false,
+"repeatable":true,
+"on_fail_exit":false,
+"question":"Quelle plante désires-tu planter parmis {}?",
+"answer_yes":true,
+"type":"kw",
+"values_max":[],
+"values_min":[]
+}

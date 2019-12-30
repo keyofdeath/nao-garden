@@ -1,0 +1,14 @@
+{
+"name":"q1",
+"desc":"question 1",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Pourquoi met-on des billes d'argiles au fond des pots de fleurs ? Réponse 1. Pour drainer. Réponse 2. Pour favoriser la pousse des racines. Réponse 3. Pour laisser respirer les racines.",
+"answer_yes":true,
+"type":"kw",
+"keywords":["1","2","3"],
+"kw2id":{"1":"un","2":"deux","3":"trois"},
+"values_max":[],
+"values_min":[]
+}

@@ -1,0 +1,15 @@
+{
+"name":"q2",
+"desc":"",
+"xp":0,
+"pres":false,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"Votre language de programmation préféré : python , c , java",
+"answer_yes":true,
+"type":"kw",
+"keywords":["python ","c","java"],
+"kw2id":{"python ":"Python ","c":"C","java":"Java"},
+"values_max":[],
+"values_min":[]
+}

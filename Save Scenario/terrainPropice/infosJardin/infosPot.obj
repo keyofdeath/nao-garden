@@ -1,0 +1,13 @@
+{
+"name":"Infos Pot",
+"desc":"",
+"xp":0,
+"pres":false,
+"repeatable":true,
+"on_fail_exit":false,
+"question":"Tu dois planter ton capteur {} dans un pot numéroté {}. Est-ce fait ?",
+"answer_yes":true,
+"type":"yn",
+"values_max":[],
+"values_min":[]
+}

@@ -1,0 +1,14 @@
+{
+"name":"q7",
+"desc":"",
+"xp":0,
+"repeatable":false,
+"on_fail_exit":false,
+"question":"En hiver, à quelle fréquence faut-il arroser son orchidée phalaenopsis ? Réponse 1. Deux fois par semaine. Réponse 2. Deux fois par mois. Réponse 3. Tous les deux mois.",
+"answer_yes":true,
+"type":"kw",
+"keywords":["1","2","3"],
+"kw2id":{"1":"un","2":"deux","3":"trois"},
+"values_max":[],
+"values_min":[]
+}
